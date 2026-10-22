@@ -1,0 +1,17 @@
+[24824:23796:1022/224133.385:ERROR:components\os_crypt\async\browser\os_crypt_win.cc:63] Failed to encrypt: The system cannot find the file specified. (0x2)
+[24824:21184:1022/224133.499:ERROR:chrome\installer\util\google_update_settings_win.cc:544] Failed opening key Software\Microsoft\EdgeUpdate\ClientStateMedium\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062} to set usagestats; result: 5
+[24824:21184:1022/224133.505:ERROR:chrome\installer\util\google_update_settings_win.cc:587] Failed opening key Software\Microsoft\EdgeUpdate\ClientStateMedium\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062} to set urlstats; result: 5
+[24824:1136:1022/224133.749:ERROR:components\password_manager\core\browser\password_store\login_database_async_helper.cc:230] Encryption is not available.
+[24824:8976:1022/224133.750:ERROR:components\password_manager\core\browser\password_store\login_database_async_helper.cc:230] Encryption is not available.
+[24824:25596:1022/224139.872:ERROR:chrome\installer\util\google_update_settings_win.cc:544] Failed opening key Software\Microsoft\EdgeUpdate\ClientStateMedium\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062} to set usagestats; result: 5
+[24824:23796:1022/224139.873:ERROR:chrome\browser\ui\edge_window_tab_manager\api\wtm_interface_impl.cc:463] Failed to open registry key
+[24824:23796:1022/224140.038:ERROR:content\browser\gpu\gpu_process_host.cc:1103] GPU process exited unexpectedly: exit_code=-1073741790
+[24824:17588:1022/224140.041:ERROR:components\viz\host\persistent_cache_sandboxed_file_factory.cc:153] Failed to open persistent cache files in directory "C:\Users\PRAVEE~1\AppData\Local\Temp\sahana-resume-edge-profile3\GPUPersistentCache\DawnGraphiteCache\NR2GNA44OGQUBFRRNDBXIX2VC7JXKYAS", error: 0: The process cannot access the file because it is being used by another process. (0x20)
+[24824:19272:1022/224140.181:ERROR:services\device\public\cpp\geolocation\system_geolocation_source_win.cc:124] Failed to create IAppCapability: Access is denied. (0x80070005)
+[24824:23796:1022/224140.250:ERROR:content\browser\gpu\gpu_process_host.cc:1103] GPU process exited unexpectedly: exit_code=-1073741790
+[24824:16352:1022/224140.253:ERROR:components\viz\host\persistent_cache_sandboxed_file_factory.cc:153] Failed to open persistent cache files in directory "C:\Users\PRAVEE~1\AppData\Local\Temp\sahana-resume-edge-profile3\GPUPersistentCache\DawnGraphiteCache\NR2GNA44OGQUBFRRNDBXIX2VC7JXKYAS", error: 0: The process cannot access the file because it is being used by another process. (0x20)
+[24824:2032:1022/224140.541:ERROR:chrome\browser\edge_aadc\user_age_utils_win.cc:163] couldn't get user2.
+[24824:2032:1022/224140.542:ERROR:chrome\browser\edge_aadc\user_age_utils_win.cc:310] couldn't get windows user age group.
+[24824:2032:1022/224140.542:ERROR:chrome\browser\edge_aadc\user_age_utils_win.cc:156] callback wasn't called.
+[24824:23796:1022/224140.550:ERROR:content\browser\gpu\gpu_process_host.cc:1103] GPU process exited unexpectedly: exit_code=-1073741790
+[24824:23796:1022/224140.551:FATAL:content\browser\gpu\gpu_data_manager_impl_private.cc:408] GPU process isn't usable. Goodbye.
